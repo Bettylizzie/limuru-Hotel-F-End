@@ -7,7 +7,7 @@ import './Header.css';
 /* ── Branch contact data (single source of truth) ── */
 const BRANCH_CONTACTS = {
     limuru:  { label: 'Limuru',  phone: '0741 574 828', tel: '+254741574828' },
-    kisumu:  { label: 'Kisumu',  phone: '0115 994 486', tel: '+254115994486' },
+    kisumu:  { label: 'Kisumu',  phone: '0713 576 969', tel: '+254713576969' },
     kanamai: { label: 'Kanamai', phone: '0710 288 043', tel: '+254710288043' },
 };
 

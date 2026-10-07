@@ -7,7 +7,7 @@ import './HomePage.css';
 const HERO_SLIDES = [
     { src: '/images/resorts/limuru/limuru-front.jpeg',  alt: 'Jumuia Conference & Country Home – Limuru' },
     { src: '/images/gallery/kanamai home.jpeg',          alt: 'Jumuia Conference & Beach Resort – Kanamai' },
-    { src: '/images/resorts/kisumu/resort1.jpg',         alt: 'Jumuia Hotel – Kisumu' },
+    { src: '/images/resorts/kisumu/kisumu-res.jpeg',         alt: 'Jumuia Hotel – Kisumu' },
 ];
 
 /* ── Crossfade hero: proper <img> tags, no CSS background-image tricks ── */
@@ -175,7 +175,7 @@ export default function HomePage() {
                         name="Jumuia Hotel Kisumu"
                         location="Kisumu, Kenya"
                         description="Experience urban comfort and convenience, perfect for business travel, conferences, and events at the center of Kisumu city."
-                        image="/images/resorts/kisumu/resort1.jpg"
+                        image="/images/resorts/kisumu/kisumu-res.jpeg"
                         features={['City Center', 'Swimming Pool', 'Hostel Rooms', 'Restaurant & Dining']}
                         link="/resorts/kisumu"
                         resort="kisumu"
